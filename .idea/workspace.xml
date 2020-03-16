@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/entry/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository\.m2" />
+        <option name="mavenHome" value="D:/instal/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\instal\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9vCHkipUJLTSQ9L6QNIz9Sp4U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.first.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="" />
+      <created>1584263994876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584263994876</updated>
+      <workItem from="1584263998412" duration="2770000" />
+      <workItem from="1584269239319" duration="1588000" />
+      <workItem from="1584314727684" duration="4903000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改pom">
+      <created>1584264417925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584264417925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加注册中心">
+      <created>1584265350172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584265350172</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加服务端">
+      <created>1584265410902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584265410902</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改pom">
+      <created>1584265513373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584265513373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加注册中心" />
+    <MESSAGE value="添加服务端" />
+    <MESSAGE value="修改pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改pom" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584265158218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="691" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584265158218" />
+    <state x="560" y="132" key="CommitChangelistDialog2" timestamp="1584265512963">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584265512963" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1584264039866">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584264039866" />
+    <state width="1340" height="259" key="GridCell.Tab.0.bottom" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.0.center" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.0.left" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.0.right" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.1.bottom" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.1.center" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.1.left" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1340" height="259" key="GridCell.Tab.1.right" timestamp="1584277016985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1340" height="259" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state x="796" y="249" key="RollbackChangesDialog" timestamp="1584264304590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="249" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584264304590" />
+    <state x="461" y="171" key="SettingsEditor" timestamp="1584264247905">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584264247905" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1584265523276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1584265523276" />
+    <state x="330" y="240" key="new project wizard" timestamp="1584265099527">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="330" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584265099527" />
+  </component>
+</project>
