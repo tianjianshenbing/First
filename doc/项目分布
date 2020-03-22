@@ -1,0 +1,11 @@
+
+doc　文档
+   git              　git常用命令
+   项目分布        　　整体架构
+sql                 　数据库
+
+
+eureka-server       　注册中心
+eureka-client       　测试
+eureka-common       　通用部分
+eureka-ticket       　票
