@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/entry/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/example/eurekaclient/EurekaClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-common/src/main/java/com/example/common/util/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-common/src/main/java/com/example/common/util/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-common/src/main/java/com/example/common/util/sort/SelectSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +50,70 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="last_opened_file_path" value="D:/instal/apache-tomcat-8.0.52/lib/servlet-api.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.common.util.sort.BubbleSort" />
+      <module name="eureka-ticket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.common.util.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.common.util.sort.InsertSort" />
+      <module name="eureka-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.common.util.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.common.util.sort.SelectSort" />
+      <module name="eureka-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.common.util.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.common.util.sort.SelectSort" />
+      <module name="eureka-ticket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.common.util.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -78,6 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.EurekaCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
@@ -85,6 +149,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.TicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort (1)" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -99,7 +178,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\tangjikede\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,7 +189,11 @@
       <updated>1584263994876</updated>
       <workItem from="1584263998412" duration="2770000" />
       <workItem from="1584269239319" duration="1588000" />
-      <workItem from="1584314727684" duration="4903000" />
+      <workItem from="1584314727684" duration="8283000" />
+      <workItem from="1584447560653" duration="599000" />
+      <workItem from="1584493405789" duration="650000" />
+      <workItem from="1584860809759" duration="6776000" />
+      <workItem from="1584868267206" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="修改pom">
       <created>1584264417925</created>
@@ -140,7 +223,56 @@
       <option name="project" value="LOCAL" />
       <updated>1584265513373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改pom">
+      <created>1584330290532</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584330290532</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加 票据">
+      <created>1584352497120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584352497120</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加 票据">
+      <created>1584352519535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584352519535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加排序方法　　&#10;添加数组随机生成工具　数组长度和范围都可调">
+      <created>1584864251942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584864251942</updated>
+    </task>
+    <task id="LOCAL-00009" summary="测试随机数组">
+      <created>1584864605901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584864605901</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加通用模块">
+      <created>1584865187468</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584865187468</updated>
+    </task>
+    <task id="LOCAL-00011" summary="删除没用的文件">
+      <created>1584865415136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584865415136</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,68 +282,94 @@
     <MESSAGE value="添加注册中心" />
     <MESSAGE value="添加服务端" />
     <MESSAGE value="修改pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改pom" />
+    <MESSAGE value="添加 票据" />
+    <MESSAGE value="添加排序方法　　&#10;添加数组随机生成工具　数组长度和范围都可调" />
+    <MESSAGE value="测试随机数组" />
+    <MESSAGE value="添加通用模块" />
+    <MESSAGE value="删除没用的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除没用的文件" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="756" y="199" key="#Notifications" timestamp="1584336063690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="199" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1584336063690" />
     <state x="691" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584265158218">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="691" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584265158218" />
-    <state x="560" y="132" key="CommitChangelistDialog2" timestamp="1584265512963">
+    <state x="596" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584864807714">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="560" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584265512963" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1584264039866">
+    <state x="596" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584864807714" />
+    <state x="739" y="397" width="461" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584864797733">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584264039866" />
-    <state width="1340" height="259" key="GridCell.Tab.0.bottom" timestamp="1584277016985">
+    <state x="739" y="397" width="461" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1584864797733" />
+    <state x="560" y="132" key="CommitChangelistDialog2" timestamp="1584870300741">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.0.center" timestamp="1584277016985">
+    <state x="560" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1584870300741" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1584493455291">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.0.left" timestamp="1584277016985">
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584493455291" />
+    <state width="1876" height="290" key="GridCell.Tab.0.bottom" timestamp="1584870111707">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.0.right" timestamp="1584277016985">
+    <state width="1876" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584870111707" />
+    <state width="1876" height="290" key="GridCell.Tab.0.center" timestamp="1584870111706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.1.bottom" timestamp="1584277016985">
+    <state width="1876" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584870111706" />
+    <state width="1876" height="290" key="GridCell.Tab.0.left" timestamp="1584870111706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.1.center" timestamp="1584277016985">
+    <state width="1876" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584870111706" />
+    <state width="1876" height="290" key="GridCell.Tab.0.right" timestamp="1584870111706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.1.left" timestamp="1584277016985">
+    <state width="1876" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584870111706" />
+    <state width="1876" height="358" key="GridCell.Tab.1.bottom" timestamp="1584869777359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
-    <state width="1340" height="259" key="GridCell.Tab.1.right" timestamp="1584277016985">
+    <state width="1876" height="358" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584869777359" />
+    <state width="1876" height="358" key="GridCell.Tab.1.center" timestamp="1584869777359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="259" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584277016985" />
+    <state width="1876" height="358" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584869777359" />
+    <state width="1876" height="358" key="GridCell.Tab.1.left" timestamp="1584869777359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584869777359" />
+    <state width="1876" height="358" key="GridCell.Tab.1.right" timestamp="1584869777359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="358" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584869777359" />
     <state x="796" y="249" key="RollbackChangesDialog" timestamp="1584264304590">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="796" y="249" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584264304590" />
-    <state x="461" y="171" key="SettingsEditor" timestamp="1584264247905">
+    <state x="461" y="171" key="SettingsEditor" timestamp="1584865606272">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584264247905" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1584265523276">
+    <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584865606272" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1584870353342">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1584265523276" />
-    <state x="330" y="240" key="new project wizard" timestamp="1584265099527">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1584870353342" />
+    <state x="330" y="240" key="new project wizard" timestamp="1584864678207">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="330" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584265099527" />
+    <state x="330" y="240" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584864678207" />
+    <state x="616" y="245" key="run.anything.popup" timestamp="1584861318795">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="245" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584861318795" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/First$InsertSort.ic" NAME="InsertSort Coverage Results" MODIFIED="1584867655745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.common.util.sort.*</FILTER>
+    </SUITE>
   </component>
 </project>
