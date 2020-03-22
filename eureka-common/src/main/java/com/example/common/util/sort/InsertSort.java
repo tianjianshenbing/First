@@ -32,7 +32,7 @@ public class InsertSort {
     public static void main(String[] args) {
         int[] arr = RandomCreateArr.createArr(5,10);
 
-        //long begin = System.currentTimeMillis();
+        long begin = System.currentTimeMillis();
 
         int[] res = InsertSort.insertSort(arr);
 
