@@ -14,12 +14,8 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>eureka-ticket</module>
+        <module>eureka-common</module>
     </modules>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
-    </dependencies>
+
 </project>
