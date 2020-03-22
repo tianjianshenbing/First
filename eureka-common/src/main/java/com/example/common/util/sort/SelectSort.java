@@ -34,16 +34,18 @@ public class SelectSort {
 
     public static void main(String[] args) {
 
+        int[] arr = RandomCreateArr.createArr(5,10);
+
         int[] res = SelectSort.selectSort(arr);
         for (int a: res) {
             System.out.print( a + "   ");
         }
 
        //测试一下随机数组生成工具
-        int[] arr = RandomCreateArr.createArr(10,50);
-        for (int a : arr) {
+       // int[] arr = RandomCreateArr.createArr(10,50);
+       /* for (int a : arr) {
             System.out.print(a + "  ");
-        }
+        }*/
     }
 
 
