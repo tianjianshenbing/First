@@ -7,6 +7,11 @@ import java.sql.Time;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * @author : xianzhiyong
+ * @Date: 2020/3/27
+ * @Description : 算时间差
+ */
 public class TransformDate {
 
     public static void main(String[] args) {
