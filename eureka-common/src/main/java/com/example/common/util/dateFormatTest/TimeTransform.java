@@ -21,5 +21,7 @@ public class TimeTransform {
         } catch (ParseException e) {
             e.printStackTrace();
         }
+        Date date = new Date();
+        System.out.println(date);
     }
 }
