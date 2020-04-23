@@ -1,6 +1,6 @@
 package com.example.common.util.dateFormatTest;
 
-import com.example.common.util.RandomCreateArr;
+import com.example.common.util.sort.RandomCreateArr;
 import com.example.common.util.sort.BubbleSort;
 
 import java.sql.Time;

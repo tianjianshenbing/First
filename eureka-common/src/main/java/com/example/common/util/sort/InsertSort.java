@@ -1,7 +1,5 @@
 package com.example.common.util.sort;
 
-import com.example.common.util.RandomCreateArr;
-
 /**
  * @author : xianzhiyong
  * @Date: 2020/3/22
