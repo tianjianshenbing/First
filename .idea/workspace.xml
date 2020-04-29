@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-common/src/main/java/com/example/common/util/dateFormatTest/DateRes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-common/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,11 @@
         <option name="argument" value="--follow-tags" />
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DateRes" />
-        <item itemvalue="Application.StringCahrtArr" />
-        <item itemvalue="Application.StringSortTest" />
-        <item itemvalue="Application.TimeTest" />
         <item itemvalue="Application.TimeTransform" />
+        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.StringSortTest" />
+        <item itemvalue="Application.StringCahrtArr" />
+        <item itemvalue="Application.DateRes" />
       </list>
     </recent_temporary>
   </component>
