@@ -1,4 +1,4 @@
-package format.lum;
+package com.example.common.util.format.lum;
 
 import javax.swing.*;
 import java.util.function.Consumer;

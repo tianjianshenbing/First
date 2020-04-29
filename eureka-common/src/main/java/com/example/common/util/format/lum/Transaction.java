@@ -1,4 +1,4 @@
-package format.lum;
+package com.example.common.util.format.lum;
 /**
  * @author : xianzhiyong
  * @Date: 2020/4/26
