@@ -1,4 +1,4 @@
-package format;
+package com.example.common.util.format;
 
 public interface TestInterface {
     //private  String  add();       //写法不对
