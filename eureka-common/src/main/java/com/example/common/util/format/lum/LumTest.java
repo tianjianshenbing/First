@@ -1,4 +1,4 @@
-package format.lum;
+package com.example.common.util.format.lum;
 
 import	java.util.Arrays;
 import	java.util.List;
