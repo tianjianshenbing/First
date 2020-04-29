@@ -1,26 +1,26 @@
 package com.example.common.util.format.lum;
 
-import javax.swing.*;
-import java.util.function.Consumer;
-
 public class LumiaBaseTest {
     public static void main(String[] args) {
+        LumiaBaseTest tester = new LumiaBaseTest();
 
-        /*new Thread(
-                () -> System.out.println("hello world")
-        ).start();
-*/
-        /*Consumer<Integer>  c = (x) -> {
-                System.out.println(6+x);
-                        };
-        System.out.println(c);
-*/
-        Runnable r = () -> System.out.println("hello world");
-        JFrame jFrame = new JFrame("My JFrame");
-        JButton jButton = new JButton("MyJButton");
+        MathOperation addition = (int a, int b) -> a + b;
+        MathOperation subtraction = (a, b) -> a - b;
+        MathOperation multiplication = (a, b) -> a * b;
+        MathOperation division = (a, b) -> a / b;
 
-        jButton.addActionListener(( event)->{
-            System.out.println("哈哈哈");
-        });
+        System.out.println("10 + 5 = " + tester.operate(10, 5, addition));
+        System.out.println("10 - 5 = " + tester.operate(10, 5, subtraction));
+        System.out.println("10 x 5 = " + tester.operate(10, 5, multiplication));
+        System.out.println("10 / 5 = " + tester.operate(10, 5, division));
     }
+
+    interface MathOperation {
+        int operation(int a, int b);
+    }
+
+    private int operate(int a, int b, MathOperation mathOperation) {
+        return mathOperation.operation(a, b);
+    }
+
 }
