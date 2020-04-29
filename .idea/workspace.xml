@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-common/src/main/java/com/example/common/util/dateFormatTest/DateRes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-common/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6cd81327-a0c8-4ebc-ac1f-8fb3951b9f9d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,6 +254,9 @@
       <workItem from="1587690449836" duration="5000" />
       <workItem from="1587691965372" duration="2779000" />
       <workItem from="1587778670419" duration="1474000" />
+      <workItem from="1587863149642" duration="949000" />
+      <workItem from="1587891189611" duration="599000" />
+      <workItem from="1588038017190" duration="1376000" />
     </task>
     <task id="LOCAL-00001" summary="修改pom">
       <created>1584264417925</created>
@@ -392,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587655356006</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="项目合并">
+      <created>1588038089042</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1588038089042</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +417,8 @@
     <MESSAGE value="略微改动一下　　&#10;试试看为啥老是不好用" />
     <MESSAGE value="git常用命令" />
     <MESSAGE value="时间测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="时间测试" />
+    <MESSAGE value="项目合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目合并" />
   </component>
   <component name="WindowStateProjectService">
     <state x="756" y="199" key="#Notifications" timestamp="1584336063690">
@@ -430,10 +437,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="397" width="461" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1584864797733" />
-    <state x="560" y="127" key="CommitChangelistDialog2" timestamp="1587814602704">
+    <state x="560" y="127" key="CommitChangelistDialog2" timestamp="1588038088289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="127" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587814602704" />
+    <state x="560" y="127" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588038088289" />
     <state x="560" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585562350544" />
     <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1586307755346">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -488,11 +495,15 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584870974614" />
-    <state x="552" y="262" key="Vcs.Push.Dialog.v2" timestamp="1587814616345">
+    <state x="552" y="262" key="Vcs.Push.Dialog.v2" timestamp="1588038183521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587814616345" />
+    <state x="552" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588038183521" />
     <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585562366168" />
+    <state x="661" y="330" key="git4idea.merge.GitPullDialog" timestamp="1587814767141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="330" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587814767141" />
     <state x="769" y="380" key="git4idea.ui.GitTagDialog" timestamp="1584870992228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
