@@ -1,4 +1,4 @@
-package com.example.common.util.format.lum;
+package com.example.common.util.Lambda.lumbdTest.lumDemo;
 
 public class LumiaBaseTest {
     public static void main(String[] args) {

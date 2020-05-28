@@ -1,4 +1,4 @@
-package building;
+package com.example.common.util.building;
 
 public class Builder implements  Runnable {
     private Shop shop;

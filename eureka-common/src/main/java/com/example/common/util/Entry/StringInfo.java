@@ -1,4 +1,4 @@
-package Entry;
+package com.example.common.util.Entry;
 
 public class StringInfo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package building;
+package com.example.common.util.building;
 
 public class Shop {
     private int bread = 0 ;

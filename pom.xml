@@ -15,6 +15,7 @@
         <module>eureka-client</module>
         <module>eureka-ticket</module>
         <module>eureka-common</module>
+        <module>eurka-demo</module>
     </modules>
 
 
